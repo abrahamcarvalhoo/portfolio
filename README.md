@@ -5,7 +5,7 @@
 
 built with [Gatsby](https://gatsbyjs.org) and hosted with [Netlify](https://netlify.com)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1963b488-7b78-48c9-9e2d-6fb5e47ab3af/deploy-status)](https://app.netlify.com/sites/abrahamcarvalhoo/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2f08a3f2-9664-468c-a9d1-3578c57b7026/deploy-status)](https://app.netlify.com/sites/abrahamcarvalhoo/deploys)
 
 ![demo](https://raw.githubusercontent.com/abrahamcarvalhoo/portfolio/main/src/images/demo.png)
 </div>
